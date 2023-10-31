@@ -15,8 +15,8 @@ The quiz application offers users the versatility to customize their quiz experi
 
 ## 🖼️  Screenshots
 
-<img src="screenshots/Screenshot1.png" width="750" height="400" />
-<img src="screenshots/Screenshot2.png" width="750" height="400" />
-<img src="screenshots/Screenshot3.png" width="750" height="400" />
-<img src="screenshots/Screenshot4.png" width="750" height="400" />
+<img src="screenshots/Screenshot1.png" width="700" height="370" />
+<img src="screenshots/Screenshot2.png" width="700" height="370" />
+<img src="screenshots/Screenshot3.png" width="700" height="370" />
+<img src="screenshots/Screenshot4.png" width="700" height="370" />
 
